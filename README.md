@@ -15,7 +15,7 @@ How to/what
 Users
 --------
 userId: alaf
-passwpord: secret
+password: secret
 
 userId: staff
-passwpord: secret
+password: secret
